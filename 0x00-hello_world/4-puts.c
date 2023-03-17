@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main-this is the main function
+ * main - this is the main program
  *
- * Return:always 0
+ * Return: 0 when good
  */
 int main(void)
 {
